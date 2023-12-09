@@ -1,4 +1,4 @@
-# bmw.js
+# bmwaos.js
 
 The brand new wrapper for BMW AOS API (Under Development).
 
