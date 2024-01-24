@@ -1,1 +1,0 @@
-console.log('Under Strict Development!');
