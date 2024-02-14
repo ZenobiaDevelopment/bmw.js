@@ -4,7 +4,7 @@
   "description": "A brand new wrapper for BMW AOS API.",
   "main": "src/Client/Client.js",
   "type": "module",
-  "bin": "src/Client/Client.js"
+  "bin": "src/Client/Client.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
