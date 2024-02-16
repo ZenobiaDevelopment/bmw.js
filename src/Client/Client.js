@@ -30,6 +30,10 @@ class BMW {
             hostname = server + `/vehicle-identification/vehicle-basic/v1?vin=${vin}`
         }
 
+        const headers = {
+            'x-apikey': apikey,
+        };
+
 
         fetch(hostname, {
             method: 'GET',
