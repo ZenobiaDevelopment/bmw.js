@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 let server = 'https://apim.bmwgroup.com/aftersales';
-let token;
+let apikey;
 
 class BMW {
     constructor() {
