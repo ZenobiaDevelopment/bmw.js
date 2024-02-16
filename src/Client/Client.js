@@ -15,8 +15,9 @@ class BMW {
     constructor() {
         this.data = [];
     }
-    login(token) {
-        this.token = token;
+    
+    setAPIKey(apikey) {
+        apikey = apikey;
     }
 
     getVehicleBasic(vin, language, callback) {
